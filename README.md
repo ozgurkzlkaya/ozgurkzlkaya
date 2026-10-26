@@ -1,14 +1,48 @@
-<h1 align="center">Hi 👋, I'm Özgür</h1>
-<h3 align="center">Financial management & software developer</h3>
+<div align="center">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/ozgurrist" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ozgurrist" height="30" width="40" /></a>
-</p>
+Ahmet Özgür Kızılkaya
+Computer Engineering Student · Full-Stack Software Developer
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+Building practical software across web, mobile, backend systems and applied AI.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ozgurkzlkaya&show_icons=true&locale=en" alt="ozgurkzlkaya" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ozgurkzlkaya&" alt="ozgurkzlkaya" /></p>
+</div>
+
+About Me
+I'm a Computer Engineering student at Fırat University (expected graduation: 2027), interested in full-stack development, backend architecture, databases, applied machine learning and financial technology.
+
+I have completed software development internships at PİR Yazılım ve Teknoloji and Miltera Elektronik ve Yazılım Teknolojileri, where I worked on customer support and technical service platforms. I enjoy building end-to-end applications, from data models and APIs to user interfaces.
+Tech Stack
+Languages: Python · C# · TypeScript · JavaScript · SQL
+Frontend & Mobile: React · React Native · Expo
+Backend: ASP.NET Core Web API · FastAPI
+Databases: Microsoft SQL Server · PostgreSQL · SQLite
+AI / ML: TensorFlow · Transfer Learning
+Tools: Git · GitHub
+Featured Projects
+SupportFlow — Customer Support Management Platform
+A role-based customer support and ticket management system developed during my internship at PİR Yazılım. Worked across the database, backend, web frontend and mobile application.
+
+Technologies: ASP.NET Core Web API, SQL Server, React, React Native, Expo, TypeScript.
+Miltera Support — Technical Service & Product Lifecycle Portal
+A technical service portal designed to track products from manufacturing and factory testing through delivery, warranty, faults, repair and end-of-life. Includes administrator, technical service staff and customer roles.
+
+Technologies: React, TypeScript, JavaScript, PostgreSQL, Microsoft SQL Server.
+PneumoniaAI — Chest X-Ray Classification
+A medical image analysis project exploring deep learning for chest X-ray classification, including normal, bacterial pneumonia and viral pneumonia categories.
+
+Technologies: Python, TensorFlow, MobileNetV2, Transfer Learning.
+CostaAlgorithmicTrade — Algorithmic Trading Research
+Explorations in systematic market analysis and algorithmic trading software.
+
+Focus: Python, market data, quantitative analysis.
+Experience
+Software Development Intern — PİR Yazılım ve Teknoloji | August 2026
+Developed components of SupportFlow's web and mobile applications, including database, API and user interface work.
+
+Software Development Intern — Miltera Elektronik ve Yazılım Teknolojileri | August 2025
+Worked on a technical service and product lifecycle tracking portal with multiple user roles.
+Contact
+- Email: ozgurkizilkaayaa@gmail.com
+- GitHub: github.com/ozgurkzlkaya
+- English: B2 (Upper Intermediate)
